@@ -1,2 +1,2 @@
 # CEV-Python-Exercicios
- Exercícios do Curso em Vídeo --> Python
+ Exercícios de Python do Curso em Vídeo
