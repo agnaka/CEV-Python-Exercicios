@@ -1,0 +1,7 @@
+nome = input('Digite su nombre completo: ')
+print(nome.upper())
+print(nome.lower())
+word = nome.split()
+frase = ''.join(word)
+print('Tu nombre tiene \033[1;34m{}\033[m caracteres sin contar los espacios'.format(len(frase)))
+print('Tu primer nombre tiene \033[1;35m{}\033[m letras'.format(len(word[0])))

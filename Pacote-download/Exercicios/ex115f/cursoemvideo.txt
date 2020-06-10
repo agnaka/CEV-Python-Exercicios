@@ -1,0 +1,5 @@
+Andrés;55
+Emília;53
+Fede;25
+Caro;22
+Obachan;83

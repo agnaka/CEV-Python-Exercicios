@@ -1,0 +1,5 @@
+nome = input('Digite su nombre completo: ').strip()
+nombres = nome.split()
+print('El nombre digitado es: {}{}{}'.format('\033[1;31;47m',nome, '\033[m'))
+print('El primer nombre es: \033[1;31m{}\033[m'.format(nombres[0]))
+print('El último nombre es: \033[1;36m{}\033[m'.format(nombres[-1]))
